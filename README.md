@@ -1,5 +1,7 @@
 # Tick-borne-pathogen-spillover-risk-evaluation-system-TAPES-
 
+TAPES is an integrated modeling framework designed to evaluate and predict the spillover risks of tick-borne pathogens in human populations. This system combines ecological and social factors through a dual-submodel approach, incorporating both environmental hazard assessment and human exposure patterns. By simulating tick population dynamics, pathogen transmission cycles, and human behavioral patterns, TAPES provides a comprehensive tool for assessing and managing tick-borne disease risks under various environmental and socioeconomic scenarios.
+
 Principles 
 •	Submodel 1: A cell-based “hazard” model to simulate the density of infectious ticks. 
 o	Tick population ecology model– to include the influence of temperature.
